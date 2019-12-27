@@ -3,22 +3,58 @@
     .section-title h1 {
         font-size: 50px;
     }
-    h2 {
+    .section-title h2 {
         font-size: 30px;
     }
+    .section-title h3 {
+        font-size: 25px;
+    }
+    .section-title h5 {
+        font-size:20 ;
+    }
+    .section-title h6 {
+        font-size:15 ;
+    }
+    
+
+
 }
 @media (max-width: 767px)
 {
     .section-title h1 {
         font-size: 36px;
     }
-
+    h2 {
+        font-size: 26px;
+    }
+    h3 {
+        font-size: 21px;
+    }
+    h5 {
+        font-size:17 ;
+    }
+    h6 {
+        font-size:13 ;
+    }
 }
 @media (max-width: 479px)
 {
     .section-title h1 {
     font-size: 30px;
     }
+    .section-title h2 {
+        font-size: 20px;
+    }
+    .section-title h3 {
+        font-size: 18px;
+    }
+    .section-title h5 {
+        font-size:15 ;
+    }
+    .section-title h6 {
+        font-size:10 ;
+    }
+    
 }
 
 .icon_home{
